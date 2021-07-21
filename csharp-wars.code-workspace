@@ -1,0 +1,64 @@
+{
+  "folders": [
+    {
+      "path": "Calculator"
+    },
+    {
+      "path": "CalculatorTests"
+    },
+    {
+      "path": "RealFloor"
+    },
+    {
+      "path": "RealFloorTests"
+    },
+    {
+      "path": "projects/sandbox/csharp-wars"
+    },
+    {
+      "path": "SquareEveryDigit"
+    },
+    {
+      "path": "SquareEveryDigitTests"
+    },
+    {
+      "path": "APlusB"
+    },
+    {
+      "path": "APlusBTests"
+    },
+    {
+      "path": "WideMouthedFrog"
+    },
+    {
+      "path": "WideMouthedFrogTests"
+    },
+    {
+      "path": "ReplaceDots"
+    },
+    {
+      "path": "ReplaceDotsTests"
+    },
+    {
+      "path": "CountByX"
+    },
+    {
+      "path": "CountByXTests"
+    },
+    {
+      "path": "CompareWithinMargin"
+    },
+    {
+      "path": "CompareWithinMarginTests"
+    }
+  ],
+  "settings": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[csharp]": {
+      "editor.defaultFormatter": "ms-dotnettools.csharp"
+    }
+  }
+}
