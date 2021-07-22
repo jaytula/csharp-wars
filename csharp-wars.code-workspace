@@ -68,6 +68,12 @@
     },
     {
       "path": "GravityFlipTests"
+    },
+    {
+      "path": "CatYearsDogYears"
+    },
+    {
+      "path": "CatYearsDogYearsTests"
     }
   ],
   "settings": {
