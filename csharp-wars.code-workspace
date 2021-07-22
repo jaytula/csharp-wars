@@ -62,6 +62,12 @@
     },
     {
       "path": "ReversedWordsTests"
+    },
+    {
+      "path": "GravityFlip"
+    },
+    {
+      "path": "GravityFlipTests"
     }
   ],
   "settings": {
