@@ -56,6 +56,12 @@
     },
     {
       "path": "GetMeanOfArrayTests"
+    },
+    {
+      "path": "ReversedWords"
+    },
+    {
+      "path": "ReversedWordsTests"
     }
   ],
   "settings": {
