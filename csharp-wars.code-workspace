@@ -74,6 +74,12 @@
     },
     {
       "path": "CatYearsDogYearsTests"
+    },
+    {
+      "path": "GrasshopperIfElseSyntaxDebug"
+    },
+    {
+      "path": "GrasshopperIfElseSyntaxDebugTests"
     }
   ],
   "settings": {
