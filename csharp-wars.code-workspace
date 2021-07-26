@@ -104,6 +104,12 @@
     },
     {
       "path": "BoiledEggsTests"
+    },
+    {
+      "path": "MaximumTripletSum"
+    },
+    {
+      "path": "MaximumTripletSumTests"
     }
   ],
   "settings": {
