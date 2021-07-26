@@ -92,6 +92,12 @@
     },
     {
       "path": "TrafficLightTests"
+    },
+    {
+      "path": "SpeedOfLetters"
+    },
+    {
+      "path": "SpeedOfLettersTests"
     }
   ],
   "settings": {
