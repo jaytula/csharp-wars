@@ -98,6 +98,12 @@
     },
     {
       "path": "SpeedOfLettersTests"
+    },
+    {
+      "path": "BoiledEggs"
+    },
+    {
+      "path": "BoiledEggsTests"
     }
   ],
   "settings": {
