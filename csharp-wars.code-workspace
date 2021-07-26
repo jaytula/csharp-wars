@@ -110,6 +110,12 @@
     },
     {
       "path": "MaximumTripletSumTests"
+    },
+    {
+      "path": "UniqOrNot"
+    },
+    {
+      "path": "UniqOrNotTests"
     }
   ],
   "settings": {
