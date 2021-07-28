@@ -116,6 +116,12 @@
     },
     {
       "path": "UniqOrNotTests"
+    },
+    {
+      "path": "UnluckyDays"
+    },
+    {
+      "path": "UnluckyDaysTests"
     }
   ],
   "settings": {
