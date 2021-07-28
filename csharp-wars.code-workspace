@@ -122,6 +122,12 @@
     },
     {
       "path": "UnluckyDaysTests"
+    },
+    {
+      "path": "FindTheMiddleElement"
+    },
+    {
+      "path": "FindTheMiddleElementTests"
     }
   ],
   "settings": {
