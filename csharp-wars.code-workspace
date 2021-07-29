@@ -134,6 +134,12 @@
     },
     {
       "path": "ResponsibleDrinkingTests"
+    },
+    {
+      "path": "SpecialNumberSeries5"
+    },
+    {
+      "path": "SpecialNumberSeries5Tests"
     }
   ],
   "settings": {
