@@ -140,6 +140,12 @@
     },
     {
       "path": "SpecialNumberSeries5Tests"
+    },
+    {
+      "path": "JumpingNumber"
+    },
+    {
+      "path": "JumpingNumberTests"
     }
   ],
   "settings": {
