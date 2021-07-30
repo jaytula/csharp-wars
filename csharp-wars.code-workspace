@@ -146,6 +146,12 @@
     },
     {
       "path": "JumpingNumberTests"
+    },
+    {
+      "path": "BalancedNumber"
+    },
+    {
+      "path": "BalancedNumberTests"
     }
   ],
   "settings": {
