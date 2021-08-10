@@ -152,6 +152,12 @@
     },
     {
       "path": "BalancedNumberTests"
+    },
+    {
+      "path": "SimpleStringMatching"
+    },
+    {
+      "path": "SimpleStringMatchingTests"
     }
   ],
   "settings": {
